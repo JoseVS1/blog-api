@@ -131,7 +131,7 @@ This backend provides API endpoints intended to be consumed by a frontend client
 
 ## License
 
-[MIT License](LICENSE)
+MIT License
 
 ## Acknowledgements
 
