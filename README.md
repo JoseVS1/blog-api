@@ -59,6 +59,7 @@ ObsidianPost Backend API provides the server-side logic and data persistence for
 
 ## Project Structure
 
+```
 ./
 ├── config
 │   └── passport.js
@@ -79,6 +80,7 @@ ObsidianPost Backend API provides the server-side logic and data persistence for
 │   ├── postRoutes.js
 │   └── userRoutes.js
 └── app.js
+```
 
 ## Usage
 
