@@ -59,25 +59,25 @@ ObsidianPost Backend API provides the server-side logic and data persistence for
 
 ## Project Structure
 
-└── ./
+./
 ├── config
-│ └── passport.js
+│   └── passport.js
 ├── controllers
-│ ├── apiController.js
-│ ├── commentController.js
-│ ├── postCommentController.js
-│ ├── postController.js
-│ └── userController.js
+│   ├── apiController.js
+│   ├── commentController.js
+│   ├── postCommentController.js
+│   ├── postController.js
+│   └── userController.js
 ├── models
-│ └── prismaClient.js
+│   └── prismaClient.js
 ├── prisma
-│ └── schema.prisma
+│   └── schema.prisma
 ├── routes
-│ ├── apiRoutes.js
-│ ├── commentRoutes.js
-│ ├── postCommentRoutes.js
-│ ├── postRoutes.js
-│ └── userRoutes.js
+│   ├── apiRoutes.js
+│   ├── commentRoutes.js
+│   ├── postCommentRoutes.js
+│   ├── postRoutes.js
+│   └── userRoutes.js
 └── app.js
 
 ## Usage
